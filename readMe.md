@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{ Developer Portfolio } 💻 </h1>
+<h1 align="center">{ Drum Kit Web App } 💻 </h1>
 
 <!-- TABLE OF CONTENTS -->
 
