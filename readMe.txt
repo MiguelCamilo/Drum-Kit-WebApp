@@ -34,3 +34,8 @@
 
 - Devolopment Portfolio [miguelcamiloportfolio.netlify.app](https://miguelcamiloportfolio.netlify.app})
 - GitHub [@MiguelCamilo](https://{github.com/MiguelCamilo})
+
+
+## Preview 
+
+![Alt text](images/display.png)
