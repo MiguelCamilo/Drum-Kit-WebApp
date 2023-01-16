@@ -8,7 +8,6 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
@@ -26,9 +25,6 @@
 - [CSS]()
 - [HTML]()
 
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 ## Contact
 
