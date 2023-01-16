@@ -1,13 +1,13 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{ Developer Portfolio } 💻 </h1>
+<h1 align="center">{ Drum Kit Web App } 💻 </h1>
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
