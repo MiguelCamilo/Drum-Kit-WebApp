@@ -28,7 +28,7 @@
 
 ## Contact
 
-- Devolopment Portfolio [miguelcamiloportfolio.netlify.app](https://miguelcamiloportfolio.netlify.app})
+- Devolopment Portfolio [miguelcamilo.dev](https://miguelcamilo.dev})
 - GitHub [@MiguelCamilo](https://{github.com/MiguelCamilo})
 
 
